@@ -8,12 +8,14 @@
 
 									<h3>Background</h3>
 									<p>
-									Jason R Klein was arrested and plead guilty.
+									Jason R Klein was arrested and plead guilty.<BR>
+									<A HREF="http://time.com/5161663/bitcoin-sting-jason-klein-crypto-irs-money-transmitter">http://time.com/5161663/bitcoin-sting-jason-klein-crypto-irs-money-transmitter</A>
 									</P>
 									
 									<P>
 										<A HREF="https://www.courtlistener.com/docket/6096194/united-states-v-klein">https://www.courtlistener.com/docket/6096194/united-states-v-klein</A><BR>
 									</P>
+
 
 									<hr class="major" />
 									
@@ -23,6 +25,5 @@
 									</p>
 
 								</section>
-
 
 <?php include ("../footer.php"); ?>

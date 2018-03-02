@@ -227,9 +227,19 @@
 											<UL>
 											  A lawsuit from Bitfinex regarding transfers from two countries in an amount exceding $75'000
 											</UL>
+										</UL>	
+										
+										<H3>Between Private Individuals</H3>
+										<UL>
+											<H3><A HREF="/lawsuits/kleiman-v-wright.php">Kleiman v. Wright</A>  (9:18-cv-80176)</H3>
+											<UL>
+											  A lawsuit from the man that claim to be Satochi.
+											</UL>
 											
 										
 										</UL>	
+										</UL>										
+										
 									</UL>
 
 									<hr class="Minor" />

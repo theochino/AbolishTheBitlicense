@@ -44,52 +44,22 @@
 											
 										
 											
-											<A id="tennesseehouse"></A>
-											<article>
-											<a href="https://www.meetup.com/AbolishTheBitlicense/events/247830245" class="image" target="meetup"><img src="/images/Tenneessee.png" alt="" /></a>
-											<h3>Nashville, TN - Wednesday, February 21<sup>st</sup>, 2018<BR>Insurance and Banking Committee</h3>
-											<p>Bill HB1507 will hear testimony.</p>
-											<ul class="actions">
-												<li><a href="https://www.meetup.com/AbolishTheBitlicense/events/247723102" class="button" target="meetup">More</a></li>
-											</ul>
-											</article>
+										
 											
 											<A id="morgan"></A>
 												<article>
-											<a href="https://www.meetup.com/AbolishTheBitlicense/events/247830979" class="image" target="meetup"><img src="/images/SanDiego-20180215.png" alt="" /></a>
-											<h3>San Diego, CA - Thursday, February 22<sup>nd</sup>, 2018<BR>USA vs Rockcoons (2:17-mj-30566)</h3>
+											<a href="/lawsuits/united-states-v-rockcoons.php" class="image"><img src="/images/SanDiego-20180215.png" alt="" /></a>
+											<h3>San Diego, CA - Tuesday, March 6<sup>th</sup>, 2018<BR>USA vs Rockcoons (2:17-mj-30566)</h3>
 											<p>
 												This will be a quick hearing. They will unseal the documents and read the charges.
 												Bitcoiners need to be present to show support.
 											</p>
 											<ul class="actions">
-												<li><a href="https://www.abolishthebitlicense.org/lawsuits/united-states-v-rockcoons.php" class="button" target="meetup">More</a></li>
+												<li><a href="/lawsuits/united-states-v-rockcoons.php" class="button">More</a></li>
 											</ul>
 											</article>
 											
-												<A id="nycrally"></A>
-											<article>
-											<a href="/hearings/ny-cityhallrally.php" class="image"><img src="/images/BitcoinCityHallRally.png" alt="" /></a>
-											<h3>New York, NY - Friday, February 23<sup>rd</sup>, 2018 - 10:45 am<BR>Rally on steps of City Hall</h3>
-											<p>Quick Press Conference to explain the impact of the Bitlicense to the press. The executive 
-												director of the Bitcoin Foundation, Llew Claasen will be speaking.</p>
-											<ul class="actions">
-												<li><a href="/hearings/ny-cityhallrally.php" class="button">More</a></li>
-											</ul>
-											</article>
-											
-											<A id="nysenate"></A>
-											<article>
-											<a href="https://www.meetup.com/AbolishTheBitlicense/events/247750477" class="image" target="meetup"><img src="/images/NYSenateHearing.png" alt="" /></a>
-											<h3>New York, NY - Friday, February 23<sup>rd</sup>, 2018<BR>New York State Senate Room in NYC</h3>
-											<p>The Senate Independent Democratic Conference is organizing a hearing to gain on the 
-												logistics and organization of cryptocurrency; its regulation through the BitLicense in the 
-												state of New York, other states and on a federal level; 
-												and the current marketplace in which it thrives and becomes problematic for consumers.</p>
-											<ul class="actions">
-												<li><a href="https://www.meetup.com/AbolishTheBitlicense/events/247750477" class="button" target="meetup">More</a></li>
-											</ul>
-											</article>
+										
 											
 											
 												<A id="cahouse"></A>
@@ -102,6 +72,18 @@
 												electronic records.</p>
 											<ul class="actions">
 												<li><a href="https://dev.abolishthebitlicense.us/bills/ca-ab2658.php" class="button" target="meetup">More</a></li>
+											</ul>
+											</article>
+											
+											<A id="zazlacskiy"></A>
+											<article>
+											<a href="/lawsuits/united-states-v-zaslavskiy.php" class="image"><img src="/images/USSouthern.jpg" alt="" /></a>
+											<h3>New York, NY - Thursday, April 12<sup>th</sup></rd>, 2018<BR>USA vs Zaslavskiy (1:17-cr-00647)</h3>
+											<p>This will be a quick hearing on the Preliminary Examinations of the case. We, Bitcoiners need to be present to monitor the governement 
+											portraid of the bitcoiners.
+											</p>
+											<ul class="actions">
+												<li><a href="/lawsuits/united-states-v-zaslavskiy.php" class="button">More</a></li>
 											</ul>
 											</article>
 											
@@ -120,6 +102,27 @@
 									</div>
 									
 								</section>
+								
+									<section>
+									<header class="major">
+										<A id="hearings"></A>
+										<H2>Public Hearings</H2></h2>
+									</header>
+									
+									
+								
+										
+											<article>
+											<iframe width="360" height="222" src="https://www.youtube.com/embed/TMjeuVUTLEE" frameborder="0" allowfullscreen></iframe>
+											<h3>NYS Senate Round Table on Cryptocurrency - 2/23/18</h3>
+											<p>To gain insight on the logistics and organization of cryptocurrency; its regulation through the BitLicense in the state of New York.</p>
+											<?php /* <ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul> */ ?>
+										</article>
+										
+								
+									</section>
 								
 							<!-- Section -->
 								<section>
@@ -414,6 +417,31 @@
 										<h2>Latest News</h2>
 									</header>
 									<div class="posts">
+																				
+										<article>
+											<iframe width="360" height="222" src="https://www.youtube.com/embed/873_ifzUKJM" frameborder="0" allowfullscreen></iframe>
+											<h3>Theo Chino Testimony at the NYSenate Hearing</h3>
+											<p>The"Abolish the BitLicense!" - That was Theo Chino, who has waged a years-long campaign against the regulatory framework, at the outset of 
+												Friday's roundtable.
+												<A TARGET="news" HREF="https://www.coindesk.com/bitcoin-crypto-ny-lawmaker-pledges-make-bitlicense-something-works">https://www.coindesk.com/bitcoin-crypto-ny-lawmaker-pledges-make-bitlicense-something-works</A>
+												</p>
+												<?php /*<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>*/ ?>
+										</article>
+									
+										
+											
+										
+										<article>
+											<iframe width="360" height="222" src="https://www.youtube.com/embed/I-gK6uVByQM" frameborder="0" allowfullscreen></iframe>
+											<h3>Gilles Gades and Llew Claasen</h3>
+											<p>Gilles Gade of Cross River Bank on Bitlicense and then Llew Claasen of the BTC Foundation.</p>
+												<?php /*<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>*/ ?>
+										</article>
+																				
 																				
 
 										<article>

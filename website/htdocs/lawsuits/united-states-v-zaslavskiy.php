@@ -22,7 +22,7 @@
 											</P>
 												
 											<P>The event information will be posted here:<BR>
-												<A HREF="https://www.meetup.com/AbolishTheBitlicense/events/247830979">https://www.meetup.com/AbolishTheBitlicense/events/247830979</A>
+												<A HREF="https://www.meetup.com/AbolishTheBitlicense/events/248176498">https://www.meetup.com/AbolishTheBitlicense/events/248176498</A>
 											</P>
 											
 										</UL>
