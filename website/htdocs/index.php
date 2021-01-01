@@ -38,7 +38,7 @@
 									</header>
 									
 									<div class="posts">
-									
+					
 							
 									
 											
@@ -49,53 +49,32 @@
 											<A id="morgan"></A>
 												<article>
 											<a href="/lawsuits/united-states-v-rockcoons.php" class="image"><img src="/images/SanDiego-20180215.png" alt="" /></a>
-											<h3>San Diego, CA - Tuesday, March 6<sup>th</sup>, 2018<BR>USA vs Rockcoons (2:17-mj-30566)</h3>
+											<h3>San Diego, CA - Tuesday, August 21<sup>st</sup>, 2018<BR>USA vs Rockcoons (2:17-mj-30566)</h3>
 											<p>
-												This will be a quick hearing. They will unseal the documents and read the charges.
-												Bitcoiners need to be present to show support.
+												This will be a hearing to decide whether Bitcoin is Money.
 											</p>
 											<ul class="actions">
 												<li><a href="/lawsuits/united-states-v-rockcoons.php" class="button">More</a></li>
 											</ul>
 											</article>
 											
-										
 											
-											
-												<A id="cahouse"></A>
-											<article>
-											<a href="https://dev.abolishthebitlicense.us/bills/ca-ab2658.php" class="image" target="meetup"><img src="/images/California-AB2658.png" alt="" /></a>
-											<h3>Sacramento, CA - Tentative around March 19<sup>th</sup>, 2018</h3>
-											<p>An act to amend Sections 1624.5 and 1633.2 of, and to add Section 1633.75 to, the Civil Code, to amend 
-												Section 25612.5 of the Corporations Code, to amend Section 16.5 of 
-												the Government Code, and to amend Section 38.6 of the Insurance Code, relating to 
-												electronic records.</p>
-											<ul class="actions">
-												<li><a href="https://dev.abolishthebitlicense.us/bills/ca-ab2658.php" class="button" target="meetup">More</a></li>
-											</ul>
-											</article>
-											
-											<A id="zazlacskiy"></A>
-											<article>
-											<a href="/lawsuits/united-states-v-zaslavskiy.php" class="image"><img src="/images/USSouthern.jpg" alt="" /></a>
-											<h3>New York, NY - Thursday, April 12<sup>th</sup></rd>, 2018<BR>USA vs Zaslavskiy (1:17-cr-00647)</h3>
-											<p>This will be a quick hearing on the Preliminary Examinations of the case. We, Bitcoiners need to be present to monitor the governement 
-											portraid of the bitcoiners.
+											<A id="zuz"></A>
+												<article>
+											<a href="/lawsuits/united-states-v-zaslavskiy.php" class="image"><img src="/images/NewYork.png" alt="" /></a>
+											<h3>Brooklyn, NY - Monday, January 7<sup>th</sup>, 2018<BR>USA vs Zaslavskiy (1:17-cr-00647)</h3>
+											<p>
+												This will be a hearing on the motions and the Judge has defered the question on whether Bitcoin is Money to the jury.
 											</p>
 											<ul class="actions">
 												<li><a href="/lawsuits/united-states-v-zaslavskiy.php" class="button">More</a></li>
 											</ul>
 											</article>
 											
-											<A id="bradley"></A>
-											<article>
-											<a href="https://www.meetup.com/AbolishTheBitlicense/events/245143698" class="image" target="meetup"><img src="/images/Bradley-20180215.png" alt="" /></a>
-											<h3>Detroit, MI - Monday, April 23<sup>rd</sup></rd>, 2018<BR>USA vs Stetkiw (2:17-mj-30566)</h3>
-											<p>This will be a quick hearing on the Preliminary Examinations of the case. We, Bitcoiners need to be present to show support.</p>
-											<ul class="actions">
-												<li><a href="https://www.meetup.com/AbolishTheBitlicense/events/245143698" class="button" target="meetup">More</a></li>
-											</ul>
-											</article>
+										
+											
+											
+											
 										
 							
 											

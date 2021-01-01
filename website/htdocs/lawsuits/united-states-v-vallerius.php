@@ -24,6 +24,10 @@
 									</P>
 									
 									<P>
+										Yasmin Vallerius setup a <A HREF="https://www.gofundme.com/8fca2-for-my-husband" TARGET=NEW>Go Fund Me page</A> for her husband.										
+									</P>
+									
+									<P>
 										<A HREF="https://www.courtlistener.com/docket/6161579/united-states-v-vallerius">https://www.courtlistener.com/docket/6161579/united-states-v-vallerius</A><BR>
 									</P>
 

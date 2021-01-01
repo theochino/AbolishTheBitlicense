@@ -23,27 +23,13 @@
 									
 									</UL>
 																
-									<H3>Thursday, February 22<sup>nd</sup>, 2018 - San Diego, CA</H3>
+									<H3>Monday, December 10<sup>th</sup>, 2018 - San Diego, CA</H3>
 									
 									<UL>	
 										<P>
-											<B>To join the meetup: <A HREF="https://www.meetup.com/AbolishTheBitlicense/events/247830979">https://www.meetup.com/AbolishTheBitlicense/events/247830979</A></B>
+											<B>To join the meetup: <A HREF="https://www.meetup.com/AbolishTheBitlicense/events/256064732">https://www.meetup.com/AbolishTheBitlicense/events/256064732</A></B>
 										</P>
 										
-																				
-										<P>
-												If you are going, please sit on the chairs on the right side of the room. 
-												Do not sit on the government side of the room <I>(even if there is space)</I>
-												so the judge can see that the government as no support.
-										</P>
-										
-										<P>
-												You might be intimidated by the cops there to fill the government side chair. 
-												Do follow their direction, but when when the judge enters the room, together, 
-												stand up and move to the defendant side to let know the judge that there is 
-												noone behind the government. Once the judge understand the dynamics, go back 
-												to any seat.
-										</P>
 											
 										<P>
 											<B>
@@ -71,7 +57,8 @@
 								<UL>						
 									<P>
 										The raw case documents:<BR>
-										<A HREF="https://www.courtlistener.com/docket/6305404/united-states-v-rockcoons">https://www.courtlistener.com/docket/6305404/united-states-v-rockcoons</A><BR>
+										<A HREF="https://www.courtlistener.com/docket/6316552/united-states-v-rockcoons" TARGET="court">https://www.courtlistener.com/docket/6316552/united-states-v-rockcoons</A> (California)<BR>
+										<A HREF="https://www.courtlistener.com/docket/6305404/united-states-v-rockcoons" TARGET="court">https://www.courtlistener.com/docket/6305404/united-states-v-rockcoons</A> (Nevada)<BR>
 									</P>
 
 									<P>

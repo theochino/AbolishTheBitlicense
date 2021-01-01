@@ -13,6 +13,13 @@
 										to entering into an agreement with the consumer. Effective 7/1/2050. (SD1)
 									</p>
 									
+									<h2>Call to action</h2>
+
+									<P>
+										<A HREF="/states/hawaii">Bitcoiners call to action</A>
+									</P>
+
+									
 									<h2>History on State Website</h2>
 									
 									<P>

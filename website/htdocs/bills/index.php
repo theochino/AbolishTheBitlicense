@@ -18,23 +18,21 @@
 									</P>
 									
 									<P>
-										The status of the act in each state:<BR>
-										<A TARGET="ulc" HREF="http://www.uniformlaws.org/Act.aspx?title=Regulation%20of%20Virtual-Currency%20Businesses%20Act">http://www.uniformlaws.org/Act.aspx?title=Regulation%20of%20Virtual-Currency%20Businesses%20Act</A>
+										The status of the act in each state & the background work of te Committee on the "Regulation of Virtual Currency Businesses Act:<BR>
+										<A TARGET="ulc" HREF="https://www.uniformlaws.org/committees/community-home?CommunityKey=e104aaa8-c10f-45a7-a34a-0423c2106778">https://www.uniformlaws.org/committees/community-home?CommunityKey=e104aaa8-c10f-45a7-a34a-0423c2106778</A>
 									</P>
 									
-									<P>
-										The background work of te Committee on the "Regulation of Virtual Currency Businesses Act":<BR>
-										<A  TARGET="ulc" HREF="http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act">http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act</A>
-									</P>
-									
-									<P>
-										The ULC bills being introduced:<BR>
-										<A  TARGET="ulc" HREF="http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act">http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act</A>
-									</P>
-
+								
 									<P>
 										<B>Legislatures:</B>
 										<UL>
+											
+										Connecticut:
+										<UL>
+										AB2658 - <A HREF="ct-hb5496.php">To regulate businesses that conduct virtual-currency business activity</A> (House)<BR>
+										</UL>
+
+											
 											Hawaii:
 											<UL><A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2129&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2129&year=2018</A> (Senate)<BR>
 															<A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2257&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2257&year=2018</A> (House)
@@ -55,7 +53,7 @@
 									
 									<h3>Alaska:</h3>
 									<UL>
-										HB0180 - <A HREF="ak-bh0180.php">MONEY SERVICES BUSINESS: REQS; LICENSING;</A> (House)
+										HB0180 - <A HREF="ak-hb0180.php">MONEY SERVICES BUSINESS: REQS; LICENSING;</A> (House)
 									</UL>
 
 									<h3>Arizona:</h3>
@@ -70,6 +68,12 @@
 									<UL>
 										AB2658 - <A HREF="ca-ab2658.php">An act to amend Electronic records: the Uniform Electronic Transactions Act: blockchain technology</A> (House)<BR>
 									</UL>
+
+
+									<h3>Connecticut:</h3>
+									<UL>
+										AB2658 - <A HREF="ct-hb5496.php">To regulate businesses that conduct virtual-currency business activity</A> (House)<BR>
+									</UL>
 										
 									<h3>Georgie:</h3>
 									<UL>
@@ -78,15 +82,15 @@
 
 									<h3>Hawaii:</h3>
 									<UL>
-										<A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2129&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=2129&year=2018</A> (Senate)<BR>
-										<A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2257&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=2257&year=2018</A> (House)<BR>
-										<A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=3082&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=3082</A> (Senate)<BR>
-										SB3082 - <A HREF="hi-sb2082.php">Money Transmitters Act; Virtual Currency</A> (Senate)<BR>
+										HB2257 - <A HREF="hi-hb2257.php">Uniform Regulation of Virtual Currency Businesses Act; Money Transmitters Act</A> (House)<BR>
+										SB2129 - <A HREF="hi-sb2129.php">Uniform Regulation of Virtual Currency Businesses Act</A> (Senate)<BR>
+										SB3082 - <A HREF="hi-sb3082.php">Money Transmitters Act; Virtual Currency</A> (Senate)<BR>
 									</UL>
 
 									<h3>Nebraska:</h3>
 									<UL>
-										<A TARGET="leg" HREF="https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=3082&year=2018">https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=SB&billnumber=3082</A> (Senate)<BR>
+										LB691 - <A HREF="ne-lb0691.php">Adopt the Nebraska Virtual Currency Money Laundering Act and define and redefine terms under the Nebraska Money Transmitters Act</A><BR>
+										LB987 - <A HREF="ne-lb0987.php">Adopt the Uniform Regulation of Virtual-Currency Businesses Act</A><BR>
 									</UL>
 									
 								
@@ -95,7 +99,8 @@
 										<UL>
 											A08792 - <A HREF="ny-a08792.php">Study and evaluate the use of blockchain technology to protect voter records and election results</A> (House)<BR>
 											A08793 - <A HREF="ny-a08793.php">Relates to establishing a task force to study implementation of blockchain technology in state record keeping</A> (House)<BR>
-											A08780 - <A HREF="ny-a08780.php">Relates to allowing signatures, records and contracts secured through blockchain technology</A> (House)
+											A08780 - <A HREF="ny-a08780.php">Relates to allowing signatures, records and contracts secured through blockchain technology</A> (House)<BR>
+											A09899 - <A HREF="ny-a09899.php">Relates to the audit of cryptocurrency business activity; prohibits licensing fee</A> (House)
 										</UL>
 										
 									<h3>Florida: Enacted</h3>

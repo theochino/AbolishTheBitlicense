@@ -28,9 +28,6 @@
 										<li>
 											<span class="opener">Pending Bills</span>
 											<ul>
-												<li><a href="/states/hawaii/sb2129.php">Hawaii - HB2257 HD1</a></li>
-												<li><a href="#">Tennessee - HB1507</a></li>
-												<li><a href="#">Tennessee - SB1662</a></li>
 												<li><a href="completelist.php">All the bills</a></li>
 											</ul>
 										</li>
@@ -38,8 +35,9 @@
 										<li>
 											<span class="opener">Current Lawsuits</span>
 											<ul>
-												<li><a href="/lawsuits/united-states-v-stetkiw.php">USA v. Stetkiw (2:17-mj-30566)</a></li>
-												<li><a href="/lawsuits/united-states-v-shahnaz.php">USA v. Shahnaz (2:17-cr-00690)</a></li>
+												<li><A HREF="/lawsuits/united-states-v-rockcoons.php">USA vs Rockcoons</A> (2:18-mj-00211)</a></li>
+												<li><A HREF="/lawsuits/united-states-v-campos.php">USA vs Campos</A> (2:18-cr-03554)</a></li>
+												<li><A HREF="/lawsuits/united-states-v-zaslavskiy.php">USA vs Zaslavskiy</A> (1:17-cr-00647)</a></li>
 												<li><a href="/lawsuits/united-states-v-costanzo.php">USA v. Costanzo (2:17-cr-00585) </a></li>
 												<li><a href="/lawsuits/commodity-futures-trading-commission-v-mcdonnell.php">CFTC v. McDonnell (1:18-cv-00361)</a></li>
 												<li><a href="/lawsuits">Other cases</a></li>

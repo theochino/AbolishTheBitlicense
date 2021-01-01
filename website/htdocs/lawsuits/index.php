@@ -3,19 +3,90 @@
 							<!-- Content -->
 								<section>
 									
+									
+									
+									
 									<header class="main">
+										<h2>State Criminal Lawsuits</h2>
+									</header>
+									
+									
+									<h3>Current</h3>
+									
+									
+									
+									<UL>
+										<H3><A HREF="/lawsuits/newyork-v-aderson-codd-maccarty">New York vs Aderson and all</A> (01231-2019)</H3>
+										<UL>
+											This is a New York State lawsuit that is a publicity stunt by the Manhattan District Attorney. The 
+											Manhattan DA disdain for crypto currency is well known and he will be using this case to
+											scare the uneducated technical population against what he considers a societal problem.
+										</UL>
+									</UL>		
+								
+										
+										<UL>
+											<H3><A HREF="/lawsuits/florida-v-espinoza.php">Florida vs Espinoza</A></H3>
+											<p>
+												This is a State Lawsuit going on in Florida and the State of Florida is currently appealing the 
+												judge dismissal. This is another case of overseal as the state law was changed in 9 minutes after
+												the state lost the argument.
+											</p>
+										</UL>
+									</UL>
+									
+										<hr class="Minor" />
+									
 										<h2>Federal Criminal Lawsuits</h2>
 									</header>
 
 									<h3>Current</h3>
 									
 									<UL>
-													
-										<H3><A HREF="/lawsuits/united-states-v-costanzo.php">USA vs Costanzo</A> (2:17-cr-00585)</h3>
+										
+										<H3><A HREF="/lawsuits/united-states-v-harmon.php">United States vs Harmon</A> (1:19-cr-00395)</H3>
+										<UL>
+											This is a Federal Lawsuit going on in the District of Columbia
+										</UL>
+									
+									<UL>
+										
+										<H3><A HREF="/lawsuits/united-states-v-green.php">United States vs Green</A> (2:19-mj-04154)</H3>
+										<UL>
+											This is a Federal Lawsuit going on in New Jersey.
+										</UL>
+										
+										
+										<H3><A HREF="/lawsuits/newyork-v-aderson-cood-maccarty">New York vs Aderson and all</A> (01231-2019)</H3>
+										<UL>
+											This is a New York State lawsuit that is a publicity stunt by the Manhattan District Attorney. The 
+											Manhattan DA disdain for crypto currency is well known and he will be using this case to
+											scare the uneducated technical population against what he considers a societal problem.
+										</UL>
+											
+										<H3><A HREF="/lawsuits/united-states-v-rockcoons.php">USA vs Rockcoons</A> (2:18-mj-00211)</h3>
 										<UL>
 											This is a Federal Lawsuit going on in Phoenix, Arizona. After the motions, this case is left with only 5 counts of money laudering. 
 											The goverment dropped the operating without a License charges, and the judge the fellon with ammunitions.
 										</UL>
+										
+										<H3><A HREF="/lawsuits/united-states-v-campos.php">USA vs Campos</A> (2:18-cr-03554)</h3>
+										<UL>
+											This is a federal case where a bitcoiner was arrested at the US/Mexican border crossing. This is an ongoing develloping story.
+										</UL>
+										
+										
+										<H3><A HREF="/lawsuits/united-states-v-zaslavskiy.php">USA vs Zaslavskiy</A> (1:17-cr-00647)</h3>
+										<UL>
+											This is a Federal Lawsuit going on in New York, NY.
+										</UL>
+										
+										<H3><A HREF="/lawsuits/united-states-v-ologeanu.php">USA vs Beniamin-Filip Olegeanu</A> (5:19-cr-00010)</h3>
+										<UL>
+											This is a Federal Lawsuit going on in Kentucky. A lot of AKA and a lot of details with ramifications around 
+											the world.https://www.courtlistener.com/docket/14558846/united-states-v-ologeanu/
+										</UL>
+									
 																			
 										<H3><A HREF="/lawsuits/united-states-v-shahnaz.php">USA vs Shahnaz</A> (2:17-cr-00690)</H3>
 										<UL>
@@ -23,29 +94,16 @@
 											where the governement linked bitcoin to generate fear on the Intangible Commodity.
 	  								</UL>
 										
-										<H3><A HREF="/lawsuits/united-states-v-stetkiw.php">USA vs Stetkiw</A> (2:17-mj-30566)</H3>
+										<H3><A HREF="/lawsuits/united-states-v-stetkiw.php">USA vs Stetkiw</A> (2:17-mj-30566 & 2:18-cr-20579)</H3>
 										<UL>
 											This is a Federal Lawsuit going on in Detroit, Michigan. This case is has the ability to
-											invalidate the FinCEN directive that has been used to unlawfully regulate bitcoin.
+											invalidate the FinCEN directive that has been used to unlawfully regulate bitcoin. In the second
+											round, the departement of justice found child pornography in Stetkiw's computer. They are charging
+											him with the child pornography and operating a money transmission business without a license as well.
 										</UL>
 									
-										<H3><A HREF="/lawsuits/united-states-v-vallerius.php">USA vs Vallerius</A> (1:17-cr-20648)</H3>
-										<UL>
-											This is a Federal Lawsuit going on in Miami, Florida. This is a simple drug deal case but the
-											goverment claims that they were able to find the real identity of the perpetrator using 
-											bitcoin.
-										</UL>
-										
-										<H3><A HREF="/lawsuits/united-states-v-rockcoons.php">USA vs Rockcoons</A> (2:18-mj-00211)</h3>
-										<UL>
-											This is a Federal Lawsuit going on in Phoenix, Arizona. After the motions, this case is left with only 5 counts of money laudering. 
-											The goverment dropped the operating without a License charges, and the judge the fellon with ammunitions.
-										</UL>
-										
-										<H3><A HREF="/lawsuits/united-states-v-zaslavskiy.php">USA vs Zaslavskiy</A> (1:17-cr-00647)</h3>
-										<UL>
-											This is a Federal Lawsuit going on in New York, NY.
-										</UL>
+									
+								
 										
 										<H3><A HREF="/lawsuits/united-states-v-kim.php">USA vs Kim</A> (1:18-cr-00107-1)</h3>
 										<UL>
@@ -70,6 +128,13 @@
 											wanted to change his plea from Guilty to Not Guilty.
 										</UL>
 										
+										<H3><A HREF="/lawsuits/united-states-v-costanzo.php">USA vs Costanzo</A> (2:17-cr-00585)</h3>
+										<UL>
+											This case is now in appeal at the 9th Circuit Court of Appeal as Thomas Costanzo 
+											was found guilty of 5 money laudering charges. All charges against Peter Steimetz were
+											dropped.
+										</UL>
+										
 										<H3><A HREF="/lawsuits/united-states-v-murgio.php">USA vs Murgio</A> (1:15-cr-00769)</H3>
 										<UL>
 											This was a Federal lawsuit going on in New York where Anthony Murgio took a plea of guilty and
@@ -90,6 +155,7 @@
 									<h3>Plead and closed</h3>									
 
 									<UL>	
+																		
 										<H3><A HREF="/lawsuits/united-states-v-petix.php">USA vs Petix</A> (1:15-cr-00227)</H3>
 										<UL>
 											This was a Federal Lawsuit from Rochester New York. This case is interesting because
@@ -100,6 +166,13 @@
 										<UL>
 											He pleaded guilty to selling on Localbitcoin.com.
 										</UL>
+										
+										<H3><A HREF="/lawsuits/united-states-v-ross.php">USA vs Ross</A> (2:17-cr-00160)</H3>
+										<UL>
+											He pleaded guilty to selling on Localbitcoin.com.
+										</UL>
+										
+										
 										
 										
 										<H3><A HREF="/lawsuits/united-states-v-mansy.php">USA vs Mansy</A> (2:15-cr-00198)</H3>
@@ -124,26 +197,16 @@
 											 business related to the Silk Road marketplace. This case was also BTCKing case.
 										</UL>
 										
-									</UL>
-									
-									<hr class="Minor" />
-
-									<header class="main">
-										<h2>State Criminal Lawsuits</h2>
-									</header>
-									
-									<UL>
-										<h3>In Appeal</h3>
-										
+										<H3><A HREF="/lawsuits/united-states-v-vallerius.php">USA vs Vallerius</A> (1:17-cr-20648)</H3>
 										<UL>
-											<H3><A HREF="/lawsuits/florida-v-espinoza.php">Florida vs Espinoza</A></H3>
-											<p>
-												This is a State Lawsuit going on in Florida and the State of Florida is currently appealing the 
-												judge dismissal. This is another case of overseal as the state law was changed in 9 minutes after
-												the state lost the argument.
-											</p>
+											This is a Federal Lawsuit going on in Miami, Florida. This is a simple drug deal case but the
+											goverment claims that they were able to find the real identity of the perpetrator using 
+											bitcoin.
 										</UL>
+										
 									</UL>
+									
+								
 									
 									<hr class="Minor" />
 									<header class="main">
@@ -152,6 +215,7 @@
 									
 									<UL>
 								
+										<A id="cftc"></A>
 										<H3>Commodity Futures Trading Commission</H3>
 										
 										<UL>
@@ -164,10 +228,22 @@
 											<UL>
 												The CFTC conviniently announced those lawsuits before a US Senate hearing.
 											</UL>
+											
+											<H3><A HREF="/lawsuits/commodity-futures-trading-commission-v-gelfman.php">CFTC v. Gelfman Blueprint, Inc. and Nicholas Gelfman</A> (1:17-cv-07181)</H3>
+											<UL>
+												CFTC Ponzi scheme.
+											</UL>
+
+											
 										</UL>
 										
 										<h3>Securities and Exchange Commission</h3>
 										<UL>
+											<H3><A HREF="/lawsuits/sec-v-sharma.php">SEC v. Sharma</A> (1:18-cv-02909)</H3>
+											<UL>
+												SEC ICO with Diamonds.
+											</UL>
+											
 											<H3><A HREF="/lawsuits/sec-v-plexcorps.php">SEC v. Plexcorps</A> (9:18-cv-80086)</H3>
 											<UL>
 												SEC ICO with Diamonds.
@@ -178,11 +254,13 @@
 											<UL>
 												SEC ICO with Real Estate.
 											</UL>
+											
+											
 										</UL>
 										
 										
 
-
+										<A id="irs"></A>
 										<H3>Internal Revenue Service</H3>
 										<UL>
 											<H3><A HREF="/lawsuits/united-states-v-coinbase-inc.php">United States v. Coinbase, Inc.</A> (9:18-cv-80086)</H3>
@@ -191,6 +269,7 @@
 											</UL>
 										</UL>
 										
+										<A id="bitconnect"></A>
 										<H3>Bitconnect Ponzi Scheme</H3>
 										<UL>
 							
@@ -221,12 +300,35 @@
 										
 										</UL>
 										
+										<A ID="coinbaseinside"></A>
+										<H3>Coinbase Inside Trading</H3>
+										<UL>
+											
+												<H3><A HREF="/lawsuits/berk-v-coinbase-inc.php">Berk v. Coinbase, Inc.</A> (4:18-cv-01364)</H3>
+											<UL>
+											  Class action suit with Jury
+											</UL>
+											
+											
+										</UL>
+										
+										
+										
 										<H3>Industry Insiders</H3>
 										<UL>
 											<H3><A HREF="/lawsuits/ifinex-inc-v-wells-fargo-company.php">iFinex Inc. v. Wells Fargo & Company</A>  (3:17-cv-01882)</H3>
 											<UL>
 											  A lawsuit from Bitfinex regarding transfers from two countries in an amount exceding $75'000
 											</UL>
+											
+											
+											<H3><A HREF="/lawsuits/winklevoss-capital-fund-llc-v-charles-shrem.php">Winklevoss Capital Fund, LLC v. Charles Shrem</A> (1:18-cv-08250)</H3>
+											<UL>
+											  A lawsuit between the Winklevoss Brothers and Charlie Shrem.
+											</UL>
+											
+											
+
 										</UL>	
 										
 										<H3>Between Private Individuals</H3>
@@ -236,6 +338,9 @@
 											  A lawsuit from the man that claim to be Satochi.
 											</UL>
 											
+										
+										
+										
 										
 										</UL>	
 										</UL>										
